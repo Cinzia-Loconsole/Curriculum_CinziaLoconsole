@@ -1,0 +1,64 @@
+*{
+    font-family: 'Quicksand', sans-serif;
+    
+}
+
+.img-profile{
+    width:240px;
+    height:240px;
+    border-radius: 50%;
+    position: relative;
+    z-index: 1;
+
+}
+
+.sfondobianco-img{
+    width:250px;
+    height:250px;
+    border-radius: 50%;
+    position: absolute;
+
+    
+}
+
+.contact{
+    list-style: none;
+}
+
+li{
+    list-style:circle;
+}
+
+.lista-u{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.padding-discipline{
+    padding-left: 60px;
+    padding-right: 40px;
+}
+
+.bg-col1{
+    background-color: #ddbfd7d7;
+    color:#2e2b2d;
+}
+
+.col_img{
+    padding-top:100px;
+}
+
+
+.height-col-custom{  
+    height: 200px;
+}
+
+.bg_second-column{
+    background-color: rgba(231, 202, 235, 0.226);
+    border-left: 3px solid rgb(12, 12, 12);
+}
+
+.sottotitolo{
+    font-style: italic;
+}
+
